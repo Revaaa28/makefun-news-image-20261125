@@ -1,4 +1,4 @@
-# News notes — THE TUESDAY LEDGER, Wednesday 25 November 2026
+# News notes — THE WEDNESDAY LEDGER, Wednesday 25 November 2026
 
 Swept from the wires on Wednesday morning, 25 Nov 2026 (from ~05:28 UTC),
 and verified against wire text at render time. This v1 is a probe build

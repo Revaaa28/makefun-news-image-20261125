@@ -1,4 +1,4 @@
-# Story data for THE TUESDAY LEDGER, Wednesday 25 November 2026.
+# Story data for THE WEDNESDAY LEDGER, Wednesday 25 November 2026.
 # Every item was swept from the wires on the morning of 25 Nov 2026 (UTC)
 # and verified against wire text at render time. See news-notes.md.
 

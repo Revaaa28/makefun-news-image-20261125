@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""THE TUESDAY LEDGER - entry program for make.fun news-image-20261125.
+"""THE WEDNESDAY LEDGER - entry program for make.fun news-image-20261125.
 
 The artwork (one broadsheet image summing up Wednesday 25 November 2026)
 is rendered locally by draw.py and committed to this repository as

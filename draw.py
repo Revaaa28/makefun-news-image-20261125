@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""THE TUESDAY LEDGER - renderer for make.fun news-image-20261125.
+"""THE WEDNESDAY LEDGER - renderer for make.fun news-image-20261125.
 
 Draws the one-image broadsheet of Wednesday 25 November 2026 at 2x
 supersampling (2048x2048) and downscales to the committed 1024x1024
@@ -207,7 +207,7 @@ def main():
 
     # ---- masthead
     f = F(SERIF_B, 63)
-    title = "THE TUESDAY LEDGER"
+    title = "THE WEDNESDAY LEDGER"
     while d.textlength(title, font=f) > CW * S:
         f = ImageFont.truetype(SERIF_B, f.size - 2)
     d.text(((1024 - d.textlength(title, font=f) / S) / 2 * S, 38 * S), title, font=f, fill=INK)
@@ -348,7 +348,7 @@ def main():
             "against the wire text on Wednesday morning, UTC.")
     d.text((M * S, (y0 + 5) * S), foot, font=f, fill=INK)
     foot2 = ("HOW TO READ THE TAGS: REPORTED = the wire reports it happened · CLAIM = one side's assertion, unverified · "
-             "FORECAST = scheduled, not yet happened. THE TUESDAY LEDGER · ONE IMAGE, ONE DAY · 25 NOVEMBER 2026")
+             "FORECAST = scheduled, not yet happened. THE WEDNESDAY LEDGER · ONE IMAGE, ONE DAY · 25 NOVEMBER 2026")
     for ln in wrap(d, foot2, f, CW * S):
         y0 += 11
         d.text((M * S, (y0 + 5) * S), ln, font=f, fill=MUTED)

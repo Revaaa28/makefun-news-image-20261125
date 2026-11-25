@@ -1,4 +1,4 @@
-# THE TUESDAY LEDGER — one image, one day
+# THE WEDNESDAY LEDGER — one image, one day
 
 A single broadsheet image that sums up **Wednesday 25 November 2026**:
 37 stories from 7 regions, every one of them dated that Wednesday —
